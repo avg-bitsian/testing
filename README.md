@@ -42,5 +42,5 @@ Using a footnote [^1]
 - [ ] understand
 - [ ] okay
 
-==Highlight==
+Highlight text using this ==Highlight==.
 

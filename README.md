@@ -43,5 +43,5 @@ Using a footnote [^1]
 - [ ] okay
 
 Highlight text using this ==Highlight==.
-<!-- I need to highlight these ==very important words==. -->
+I need to highlight these ==very important words==.
 
